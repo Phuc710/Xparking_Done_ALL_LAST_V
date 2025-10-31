@@ -1,0 +1,54 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+xparking_system.log
+
+# Test files (keep for development)
+# test_*.py
+# test_results.json
+
+# QR cache
+qr_cache/*.png
+
+# Temporary files
+temp/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database
+*.db
+*.sqlite
+
+# Secrets
+.env
+*.env
+user_config.json
+
+# Images cache
+img/temp/
+uploads/
+
+# Backup files
+*.bak
+*.backup

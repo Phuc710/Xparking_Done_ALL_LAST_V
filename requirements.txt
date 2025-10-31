@@ -1,0 +1,19 @@
+# Supabase requirements for XParking System
+supabase==2.3.4
+postgrest-py==0.13.2
+realtime-py==2.0.2
+websockets==12.0
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Keep existing requirements
+opencv-python==4.8.1.78
+pillow==10.1.0
+numpy==1.24.3
+torch==2.1.1
+torchvision==0.16.1
+ultralytics==8.0.206
+paho-mqtt==1.6.1
+requests==2.31.0
+python-dotenv==1.0.0
